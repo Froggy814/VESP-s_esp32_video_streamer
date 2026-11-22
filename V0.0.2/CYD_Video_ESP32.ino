@@ -18,8 +18,8 @@
 // WIFI SETTINGS
 // ============================================================
 
-const char* WIFI_SSID = "Rock Ranch";
-const char* WIFI_PASSWORD = "35454Ennis";
+const char* WIFI_SSID = "Your_Name";
+const char* WIFI_PASSWORD = "Your_Pass";
 
 WiFiServer server(3333);
 WiFiClient client;
